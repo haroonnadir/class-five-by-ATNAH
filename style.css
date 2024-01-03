@@ -1,0 +1,11 @@
+.navbar{
+    background-color: bisque;
+}
+
+.footer{
+    background-color: black;
+    color: green;
+    height: 100px;
+    width: auto;
+    text-align: center;
+}
